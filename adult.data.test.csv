@@ -1,0 +1,6 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours_per_week,native_country,salary
+42,Private,159449,Assoc-acdm,13,Married-civ-spouse,Exec-managerial,Husband,White,Male,5178,0,40,United-States,>50K
+37,Private,280464,Doctorate,10,Married-civ-spouse,Exec-managerial,Husband,Black,Male,0,0,80,United-States,>50K
+30,State-gov,141297,Bachelors,13,Married-civ-spouse,Prof-specialty,Husband,Asian-Pac-Islander,Male,0,0,40,India,>50K
+23,Private,122272,Masters,13,Never-married,Adm-clerical,Own-child,White,Female,0,0,30,India,>50K
+32,Private,205019,Assoc-acdm,12,Never-married,Sales,Not-in-family,Black,Male,0,0,30,United-States,<=50K
